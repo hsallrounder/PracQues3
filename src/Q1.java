@@ -12,6 +12,7 @@ public class Q1 {
         for(int i=0;i<n;i++){
             arr.add(sc.nextInt());
         }
+        sc.close();
         System.out.println(arr);
         int i=0;
         while(i<arr.size()){
